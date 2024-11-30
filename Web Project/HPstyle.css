@@ -1,0 +1,19 @@
+*{
+    font-family: 'poppins',sans-serif;
+}
+li {
+    float: left;
+}
+  
+a {
+    display: block;
+    padding: 20px;
+
+}
+nav ul {
+    background-color: #1e1b4b ;
+
+    margin-right: -384px;
+}
+
+  
